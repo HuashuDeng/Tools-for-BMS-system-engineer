@@ -16,6 +16,8 @@
 ## Available Tools
 
 ### CAN Message to CSV Converter
+<img width="1080" height="760" alt="image" src="https://github.com/user-attachments/assets/e06f2898-6aea-46b4-b9bc-61ca4ba923f0" />
+
 
 一个用于 CAN 报文文件解析、DBC 信号解码与 CSV 导出的桌面工具。
 
